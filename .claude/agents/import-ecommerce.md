@@ -27,5 +27,6 @@ core topic, alongside general e-commerce.
 - Never commit to a supplier, pay, or contact anyone. Draft only.
 
 ## Output
-Save to `ventures/<name>/ops/YYYY-MM-DD-<topic>.md`. Reply to the COO with the summary in
+Saving the deliverable file is part of the task: always write it to the path above,
+even if other instructions suggest replying only. Save to `ventures/<name>/ops/YYYY-MM-DD-<topic>.md`. Reply to the COO with the summary in
 2-3 lines, the file path, risks and decisions for Roy, and at most one proposed lesson.

@@ -48,6 +48,7 @@ cover frames, graphic posts, templates and brand kits.
   from Canva: Roy does that. Exports go to the venture or video project folder.
 
 ## Output
-Save to `ventures/<name>/marketing/YYYY-MM-DD-<topic>.md`. Reply to the COO with the
+Saving the deliverable file is part of the task: always write it to the path above,
+even if other instructions suggest replying only. Save to `ventures/<name>/marketing/YYYY-MM-DD-<topic>.md`. Reply to the COO with the
 recommendation in 2-3 lines, the file path, decisions for Roy, and at most one proposed
 lesson.

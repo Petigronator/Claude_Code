@@ -34,5 +34,6 @@ need a service Roy has not connected (a CRM, analytics) will not work; skip them
 - `sales:call-prep`
 
 ## Output
-Save to `ventures/<name>/strategy/YYYY-MM-DD-<topic>.md`. Reply to the COO with the top
+Saving the deliverable file is part of the task: always write it to the path above,
+even if other instructions suggest replying only. Save to `ventures/<name>/strategy/YYYY-MM-DD-<topic>.md`. Reply to the COO with the top
 3 opportunities, the file path, what Roy must decide or do, and at most one proposed lesson.

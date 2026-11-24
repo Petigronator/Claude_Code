@@ -19,7 +19,9 @@ deviation, the variance and a price chart, and can send results to Telegram.
 Technical assessment: `product/2026-11-24-prototype-assessment.md`.
 
 ## Customer and market
-- **Target customer:** private (retail) investors. Which ones exactly: TBD.
+- **Target customer:** active private investors and active traders (Roy, 2026-11-24).
+  Not beginners or passive index investors.
+- **Founder fit:** Roy is an active investor himself: his own decisions are the first case study.
 - **Problem (Roy's words):** "זירוז קבלת החלטות": investors are slow and unsure when
   deciding. The exact decision and pain: TBD, to be found through research and interviews.
 - **Market:** TBD (Israel first, global, or both)
@@ -33,6 +35,8 @@ Technical assessment: `product/2026-11-24-prototype-assessment.md`.
 - **Current goal:** decide whether there is a real, reachable problem worth building for,
   and what the smallest testable version is.
 - **Budget:** zero.
+- **Regulatory flag (traders):** trading signals ("שירות איתות") and buy/sell timing are licensed
+  activities. The product stays on the analytics and self-service side.
 - **Regulatory flag:** in Israel, investment advice and portfolio management are licensed
   activities (Israel Securities Authority). Every product idea must be checked against
   this before it is built. legal-regulatory owns this question.

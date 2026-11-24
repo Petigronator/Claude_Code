@@ -29,5 +29,6 @@ accountant's office prepared and pays for less of their time.
 - Every output starts with: "Research summary, not legal advice."
 
 ## Output
-Save to `ventures/<name>/legal/YYYY-MM-DD-<topic>.md`. Reply to the COO with the must-do
+Saving the deliverable file is part of the task: always write it to the path above,
+even if other instructions suggest replying only. Save to `ventures/<name>/legal/YYYY-MM-DD-<topic>.md`. Reply to the COO with the must-do
 items, the file path, the questions for a professional, and at most one proposed lesson.
