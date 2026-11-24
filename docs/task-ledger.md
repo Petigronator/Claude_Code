@@ -5,6 +5,7 @@
 |---|---|---|---|---|
 | 1 | 2026-11-24 | Workspace set up: Git repo, COO role in CLAUDE.md, 11 agents, venture template, knowledge base, ledger and lessons log | "סדר לי את זה כמו בהיררכיה ארגונית" | `CLAUDE.md`, `.claude/agents/`, `ventures/_template/` |
 | 2 | 2026-11-24 | Org restructured into departments (tech under CTO, marketing under CMO), adaptive-org rules and agent template added, video-editor agent hired, rough-cut stage (4b) added to video-pipeline skill | "אני רוצה ממש לבנות Adaptive Corporation team" | `CLAUDE.md`, `.claude/agents/video-editor.md`, `docs/agent-template.md`, `~/.claude/skills/video-pipeline/SKILL.md` |
+| 3 | 2026-11-24 | Plugin skills assigned to 8 agents; Canva approved and given to cmo and video-editor (no AI-generation tools) | "כן" (approve Canva) | `.claude/agents/`, `~/.claude/CLAUDE.md` |
 
 ## Pending
 | # | Date | What | Owner | Unblocked by |
