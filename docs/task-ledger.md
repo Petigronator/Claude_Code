@@ -11,11 +11,11 @@
 ## Pending
 | # | Date | What | Owner | Unblocked by |
 |---|---|---|---|---|
-| 1 | 2026-11-24 | First test run of the agents on a real drawer idea, then fix the agents from what we learn | Roy + COO | Roy raises an idea in chat |
+| 1 | 2026-11-24 | First test run of the agents on a real idea (Risk Bro, ventures/risk-bro) in progress; fix agents from what we learn | COO | market-researcher and legal-regulatory reports |
 | 2 | 2026-11-24 | Idea bank in Notion (Roy adds ideas from his phone) | COO | After the first test run |
 | 3 | 2026-11-24 | Weekly scheduled report from the COO | COO | Check that scheduling is free on Roy's plan |
 | 4 | 2026-11-24 | Re-authorise Google Drive in claude.ai connector settings | Roy | - |
-| 5 | 2026-11-24 | Decide on CapCut draft automation: 1.5-day test, or keep rough cut + SRT (see knowledge/capcut-draft-automation.md) | Roy | - |
+| 5 | 2026-11-24 | CapCut draft automation test (Roy chose: run now). Test SRT ready in VideoStudio/projects/2026-11-24-capcut-test | Roy, then developer + qa | Roy makes zz-reference and zz-shell in CapCut and closes it |
 | 6 | 2026-11-24 | First real video through the video-editor pipeline | Roy + video-editor | Roy films raw takes |
 
 ## Ruled out

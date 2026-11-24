@@ -45,6 +45,9 @@ Run only the stages Roy asks for. Each stage reports the real command output.
   (`%LOCALAPPDATA%/CapCut/...`), including generating drafts. Its draft format is
   undocumented; this needs a CTO evaluation and Roy's approval first. Reading drafts to
   learn the structure is fine.
+- **Privacy:** CapCut draft files contain hashed IDs of Roy's machine (`device_id`,
+  `hard_disk_id`, `mac_address`). Never commit, upload, share or quote draft files, and
+  strip those fields from any copy used for testing.
 
 ## Plugin skills you can use
 Use the Skill tool to load these when the task fits. They are frameworks, not
