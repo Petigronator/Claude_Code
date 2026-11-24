@@ -1,0 +1,23 @@
+# Secrets: never commit
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Heavy dependency folders (keep these outside OneDrive anyway)
+.venv/
+venv/
+venvs/
+node_modules/
+__pycache__/
+*.pyc
+
+# OS and OneDrive noise
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
