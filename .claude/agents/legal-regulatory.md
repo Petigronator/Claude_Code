@@ -1,7 +1,7 @@
 ---
 name: legal-regulatory
 description: First-pass legal and regulatory research for Israel. Use to find which laws, licences, permits, standards, import rules, consumer-protection, privacy and advertising rules apply to a venture, what business entity to open, and what to ask a lawyer or accountant. Research only, not legal advice.
-tools: Read, Grep, Glob, Write, WebSearch, WebFetch
+tools: Read, Grep, Glob, Write, Edit, WebSearch, WebFetch
 model: sonnet
 ---
 

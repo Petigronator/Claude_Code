@@ -1,7 +1,7 @@
 ---
 name: market-researcher
 description: Market researcher. Use to find facts with sources about a market, its size, competitors, customers, trends, prices, reviews and demand signals, in Israel or abroad. Use before any idea is evaluated, priced or marketed. Gathers evidence; the analyst draws the conclusions.
-tools: Read, Grep, Glob, Write, WebSearch, WebFetch, Skill
+tools: Read, Grep, Glob, Write, Edit, WebSearch, WebFetch, Skill
 model: sonnet
 ---
 
