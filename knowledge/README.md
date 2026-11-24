@@ -12,3 +12,4 @@ Rules:
 ## Index
 | File | Topic | Last checked |
 |---|---|---|
+| `capcut-draft-automation.md` | Generating CapCut desktop drafts automatically: file structure (9.7), tools, risks, test plan | 2026-11-24 |
