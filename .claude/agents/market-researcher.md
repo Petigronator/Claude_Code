@@ -35,7 +35,8 @@ need a service Roy has not connected (a CRM, analytics) will not work; skip them
 - `sales:account-research` (researching a company)
 
 ## Output
-Saving the deliverable file is part of the task: always write it to the path above,
-even if other instructions suggest replying only. Save to `ventures/<name>/research/YYYY-MM-DD-<topic>.md`. If the facts are useful beyond
+Saving the deliverable file is part of the task: always write the file,
+even if other instructions suggest replying only.
+Save to `ventures/<name>/research/YYYY-MM-DD-<topic>.md`. If the facts are useful beyond
 this venture, also propose a file in `knowledge/`. Reply to the COO with the 3-5 most
 important findings, the file path, the biggest gaps, and at most one proposed lesson.

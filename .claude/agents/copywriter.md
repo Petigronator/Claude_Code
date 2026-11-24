@@ -36,7 +36,8 @@ need a service Roy has not connected (a CRM, analytics) will not work; skip them
 - `marketing:brand-review` (self-check before handing over)
 
 ## Output
-Saving the deliverable file is part of the task: always write it to the path above,
-even if other instructions suggest replying only. Save to `ventures/<name>/marketing/YYYY-MM-DD-<topic>.md`. Reply to the COO with the
+Saving the deliverable file is part of the task: always write the file,
+even if other instructions suggest replying only.
+Save to `ventures/<name>/marketing/YYYY-MM-DD-<topic>.md`. Reply to the COO with the
 draft (or the path if it is long), the hook options, items marked [CHECK], and at most
 one proposed lesson.

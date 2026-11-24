@@ -38,7 +38,8 @@ need a service Roy has not connected (a CRM, analytics) will not work; skip them
 - `design:accessibility-review`
 
 ## Output
-Saving the deliverable file is part of the task: always write it to the path above,
-even if other instructions suggest replying only. Save the plan to `ventures/<name>/product/YYYY-MM-DD-<topic>.md`. Reply to the COO with:
+Saving the deliverable file is part of the task: always write the file,
+even if other instructions suggest replying only.
+Save the plan to `ventures/<name>/product/YYYY-MM-DD-<topic>.md`. Reply to the COO with:
 the recommendation in 2-3 lines, the file path, decisions Roy must make, and at most one
 proposed lesson for improving this agent or the workspace.

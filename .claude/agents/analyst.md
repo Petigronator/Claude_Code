@@ -34,7 +34,8 @@ need a service Roy has not connected (a CRM, analytics) will not work; skip them
 - `marketing:performance-report`
 
 ## Output
-Saving the deliverable file is part of the task: always write it to the path above,
-even if other instructions suggest replying only. Save to `ventures/<name>/strategy/YYYY-MM-DD-<topic>.md`. Reply to the COO with the
+Saving the deliverable file is part of the task: always write the file,
+even if other instructions suggest replying only.
+Save to `ventures/<name>/strategy/YYYY-MM-DD-<topic>.md`. Reply to the COO with the
 verdict in 2-3 lines (go / no-go / test first, and why), the file path, the key open
 questions, and at most one proposed lesson.
