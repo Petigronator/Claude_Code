@@ -54,6 +54,10 @@ the head reviews the result before it reaches Roy.
 | `copywriter` | Marketing | Posts, scripts, landing pages, emails, pitch text, in the venture's language and voice | sonnet |
 | `video-editor` | Marketing | Automated video editing: transcription, cut lists, rough cuts, Hebrew captions, sound, checks, CapCut-ready output | sonnet |
 
+Plugin skills (marketing, design, product-management, sales) are assigned per agent: each
+agent file lists the ones it may load. CapCut has no third-party plugins; Roy's CapCut
+presets and effects are applied by Roy in CapCut.
+
 ## Adaptive org: how the team grows and changes
 The org chart is not fixed. It adapts to the ventures Roy runs.
 1. **Hiring.** When the same kind of task comes up twice and no agent fits, or one agent

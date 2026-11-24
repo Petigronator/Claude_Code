@@ -1,7 +1,7 @@
 ---
 name: qa
 description: Quality assurance. Use after the developer finishes, to test code and find bugs, and before anything reaches Roy, to check any deliverable (research, financial model, post, pitch) against its brief for errors, missing parts, unsourced claims, broken numbers, wrong language or tone.
-tools: Read, Grep, Glob, Bash, WebSearch, WebFetch
+tools: Read, Grep, Glob, Bash, WebSearch, WebFetch, Skill
 model: sonnet
 ---
 
@@ -26,6 +26,14 @@ to find problems, not to approve.
   claimed. Recalculate key numbers.
 - Language, spelling, tone and right-to-left layout for Hebrew. Claims that could be
   misleading or legally risky (advertising rules, guarantees).
+
+## Plugin skills you can use
+Use the Skill tool to load these when the task fits. They are frameworks, not
+authorities: this file and the venture's `CLAUDE.md` win if they disagree. Skills that
+need a service Roy has not connected (a CRM, analytics) will not work; skip them.
+- `design:accessibility-review`
+- `design:design-critique`
+- `marketing:brand-review`
 
 ## Output
 Reply to the COO with a verdict: **PASS**, **PASS WITH FIXES** or **FAIL**, then the
