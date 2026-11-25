@@ -9,3 +9,4 @@ Every important decision, newest first, so no agent reopens a closed question.
 | 3 | 2026-11-25 | Both installable software and a website, sold as SaaS | Roy's product vision | Desktop-only (the 2024 prototype) | Roy |
 | 4 | 2026-11-25 | Never a buy or sell signal; the app gives factual insights | Roy; also keeps the product outside licensed investment advice | Signals, recommendations, timing | Roy |
 | 5 | 2026-11-25 | Rename the product: serious and professional, hinting at discipline, marketable | Roy: "Risk Bro" is not marketable enough | Playful or slang names | Roy |
+| 6 | 2026-11-25 | Start building before the interviews are done, overriding the analyst's "no code yet" | Roy is user #1; the app doubles as a test tool in interviews | Interviews first | Roy |
