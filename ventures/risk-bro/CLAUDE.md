@@ -24,11 +24,11 @@ Technical assessment: `product/2026-11-24-prototype-assessment.md`.
 - **Founder fit:** Roy is an active investor himself: his own decisions are the first case study.
 - **Problem (Roy's words):** "זירוז קבלת החלטות": investors are slow and unsure when
   deciding. The exact decision and pain: TBD, to be found through research and interviews.
-- **Market:** TBD (Israel first, global, or both)
+- **Market:** Israel first (Hebrew speakers trading US stocks), global later. US stocks only in v1.
 
 ## Output rules for agents
 - **Language of deliverables for Roy:** Hebrew.
-- **Product language:** TBD.
+- **Product language:** Hebrew (RTL) and English, switchable.
 - **Voice and tone:** professional, clear, no hype. Never promise returns.
 - **Product rule:** never a buy or sell signal. Insights only: factual, the same for every
   user, with the calculation visible (e.g. "volatility is 2.3x its 30-day average").
@@ -45,7 +45,8 @@ Technical assessment: `product/2026-11-24-prototype-assessment.md`.
 - **Ruled out:** none yet.
 
 ## Where things are
-- Code (outside OneDrive): `C:/Py_OOP_Project/Risk_BroV1.01`
+- New code (outside OneDrive): `C:/Users/Petigro/dev/risk-bro` (branch `dev`, venv `.venv`, Python 3.13)
+- Old prototype (read-only): `C:/Py_OOP_Project/Risk_BroV1.01`
 - Notion page: none
 - Tasks: `docs/task-ledger.md` · Decisions: `decisions.md`
 - Deliverables: `research/`, `strategy/`, `finance/`, `marketing/`, `product/`, `ops/`, `legal/`

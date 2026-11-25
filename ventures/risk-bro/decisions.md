@@ -10,3 +10,7 @@ Every important decision, newest first, so no agent reopens a closed question.
 | 4 | 2026-11-25 | Never a buy or sell signal; the app gives factual insights | Roy; also keeps the product outside licensed investment advice | Signals, recommendations, timing | Roy |
 | 5 | 2026-11-25 | Rename the product: serious and professional, hinting at discipline, marketable | Roy: "Risk Bro" is not marketable enough | Playful or slang names | Roy |
 | 6 | 2026-11-25 | Start building before the interviews are done, overriding the analyst's "no code yet" | Roy is user #1; the app doubles as a test tool in interviews | Interviews first | Roy |
+| 7 | 2026-11-25 | Interface in both Hebrew (RTL) and English | Israel first, global later | One language only | Roy |
+| 8 | 2026-11-25 | Tel Aviv stocks left out of v1 | No free real-time TASE source; avoid overload | Delayed TASE via yfinance | Roy (CTO recommendation) |
+| 9 | 2026-11-25 | Accept CTO technical recommendations: HTML + PWA front end, "my rule" note on alerts, default insight definitions, testers see demos on Roy's screen | CTO plan | NiceGUI; giving testers access to Roy's server | Roy |
+| 10 | 2026-11-25 | Code lives in C:/Users/Petigro/dev/risk-bro (Git branch dev), packages installed | Roy approved install | - | Roy |
