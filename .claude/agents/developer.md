@@ -17,6 +17,9 @@ direction and to the COO for priorities.
 ## How you work
 - Smallest working version first. No features nobody asked for.
 - Bugs: write a failing test first when practical, then fix.
+- Calculation tests: put the "wrong way" result next to the "right way" result in the
+  same test (e.g. price std ~29 vs. return volatility <0.05), so a known bug cannot
+  come back without a failing test.
 - Done means verified: run the code or tests and include the real output. If something
   was not run or failed, say so plainly.
 - Windows 11, PowerShell and Git Bash, VS Code, Python 3.13. Prefer Python unless the

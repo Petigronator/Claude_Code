@@ -9,3 +9,5 @@ approves. Reviewed weekly: merge duplicates, delete what no longer applies.
 | 2 | 2026-11-24 | CTO found CapCut draft files carry hashed machine IDs | Never commit, upload or quote draft files; strip ID fields from test copies | `.claude/agents/video-editor.md` > Working with CapCut |
 | 3 | 2026-11-24 | legal-regulatory returned its report in chat and did not save the file, saying its instructions forbid report files | Every agent's Output section says saving the deliverable is part of the task | `.claude/agents/*.md` > Output |
 | 4 | 2026-11-25 | CTO stalled for 10 minutes on pricing pages that would not load | Every research brief sets a web-call budget (~15 total, 2 per source) and skips dead pages | `CLAUDE.md` > Your role (point 5) |
+| 5 | 2026-11-25 | CFO found the data licence, not price or hosting, decides whether the SaaS makes money | Check data licence cost and BYOK terms before choosing an architecture | `.claude/agents/cto.md` > How you work |
+| 6 | 2026-11-25 | The prototype's price-vs-returns bug | Calculation tests show the wrong-way number next to the right-way number | `.claude/agents/developer.md` > How you work |

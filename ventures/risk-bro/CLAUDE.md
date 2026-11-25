@@ -1,4 +1,4 @@
-# Venture: Risk Bro (working name)
+# Venture: Rulemark (formerly Risk Bro; backup name Firmline)
 
 > Agents read this file first. "TBD" means Roy has not decided yet: do not guess.
 
@@ -36,7 +36,7 @@ Technical assessment: `product/2026-11-24-prototype-assessment.md`.
 ## Goals and constraints
 - **Current goal:** decide whether there is a real, reachable problem worth building for,
   and what the smallest testable version is.
-- **Budget:** zero.
+- **Budget:** zero. Lean, free MVP: no money talk until Roy has seen and used the app.
 - **Regulatory flag (traders):** trading signals ("שירות איתות") and buy/sell timing are licensed
   activities. The product stays on the analytics and self-service side.
 - **Regulatory flag:** in Israel, investment advice and portfolio management are licensed
