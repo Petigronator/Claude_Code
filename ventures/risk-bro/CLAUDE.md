@@ -5,7 +5,7 @@
 ## Basics
 - **One-liner (draft):** a tool that helps private investors make investment decisions
   faster and with more confidence.
-- **Type:** startup (fintech / investing)
+- **Type:** startup (fintech / investing), SaaS: installable software + website, real-time streaming
 - **Stage:** idea (an old university prototype exists)
 - **Started:** 2026-11-24 (prototype from March 2024)
 - **Owner:** Roy
@@ -30,6 +30,8 @@ Technical assessment: `product/2026-11-24-prototype-assessment.md`.
 - **Language of deliverables for Roy:** Hebrew.
 - **Product language:** TBD.
 - **Voice and tone:** professional, clear, no hype. Never promise returns.
+- **Product rule:** never a buy or sell signal. Insights only: factual, the same for every
+  user, with the calculation visible (e.g. "volatility is 2.3x its 30-day average").
 
 ## Goals and constraints
 - **Current goal:** decide whether there is a real, reachable problem worth building for,
